@@ -19,5 +19,6 @@ public class Client {
             //thread.start();
 
         }
+        service.shutdown();
     }
 }
