@@ -3,7 +3,7 @@ package Concurrency2;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Client {
+public class  Client {
     public static void main(String[] args) {
         //practically using 100 tread is not good practise as this jobs are very simple
         //We can use ServiceExecutor
